@@ -129,15 +129,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaaha-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaaha-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaaha-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaha-7&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaaha-7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaaha-7&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaaha-7&style=flat&color=blueviolet&label=Profile+Views" alt="profile views"/>
 </p>
 
 <p align="center"><i>⭐️ Always learning, always building. Let's connect!</i></p>
