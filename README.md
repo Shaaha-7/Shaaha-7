@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shabeer Ahamed 👋</h1>
+<h1 align="center">Hi, I'm Shabeer Ahamed</h1>
 <h3 align="center">AI / ML Engineer · Data Scientist · Data Engineer</h3>
 
 <p align="center">
@@ -14,18 +14,18 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 M.Sc. candidate at **Middlesex University** · B.Tech from **Dhaanish Ahmed Institute of Technology**
-- 🤖 I design and ship **full-stack AI/ML systems**: LLM & RAG applications, computer vision, and classical ML.
-- 🧠 Comfortable across the whole lifecycle — **data engineering → modeling → evaluation → MLOps → deployment**.
-- 🔍 Strong focus on **explainable AI** (SHAP, LIME, Grad-CAM) and rigorous, metric-driven evaluation.
-- 📫 Reach me at **shaaha1979@gmail.com**
-- 🎯 Open to roles in **AI Engineering, Machine Learning, Data Science, and Data Engineering**.
+- M.Sc. candidate at **Middlesex University** · B.Tech from **Dhaanish Ahmed Institute of Technology**
+- I design and ship **full-stack AI/ML systems**: LLM & RAG applications, computer vision, and classical ML.
+- Comfortable across the whole lifecycle — **data engineering → modeling → evaluation → MLOps → deployment**.
+- Strong focus on **explainable AI** (SHAP, LIME, Grad-CAM) and rigorous, metric-driven evaluation.
+- Reach me at **shaaha1979@gmail.com**
+- Open to roles in **AI Engineering, Machine Learning, Data Science, and Data Engineering**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -107,20 +107,20 @@
 
 ---
 
-### 🔬 Featured Projects
+### Featured Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| 🏠 **Real Estate AI Platform** | Full-stack AI/ML system delivering property insights and predictions end-to-end | Python · FastAPI · scikit-learn · Docker |
-| 🙂 **Facial Analysis & Segmentation** | Computer-vision pipeline for face detection, analysis, and image segmentation | OpenCV · PyTorch · CNNs · Grad-CAM |
-| 📈 **Airbnb Booking Velocity Index** | Data science project modeling booking demand signals into an interpretable index | Pandas · XGBoost · SHAP · Plotly |
-| 🧪 **Feature Engineering & Model Benchmarking** | Internship work: engineered features and benchmarked models for measurable gains | scikit-learn · LightGBM · Pandas |
+| **Real Estate AI Platform** | Full-stack AI/ML system delivering property insights and predictions end-to-end | Python · FastAPI · scikit-learn · Docker |
+| **Facial Analysis & Segmentation** | Computer-vision pipeline for face detection, analysis, and image segmentation | OpenCV · PyTorch · CNNs · Grad-CAM |
+| **Airbnb Booking Velocity Index** | Data science project modeling booking demand signals into an interpretable index | Pandas · XGBoost · SHAP · Plotly |
+| **Feature Engineering & Model Benchmarking** | Internship work: engineered features and benchmarked models for measurable gains | scikit-learn · LightGBM · Pandas |
 
-> 📌 See the **pinned repositories** below for the full write-ups.
+> See the **pinned repositories** below for the full write-ups.
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - **Advanced RAG Applications with Vector Databases** — LinkedIn Learning
 - **Building AI Agents: From Zero to Production** — LinkedIn Learning
@@ -129,7 +129,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaaha-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
@@ -152,4 +152,4 @@
   <img src="https://komarev.com/ghpvc/?username=Shaaha-7&style=flat&color=blueviolet&label=Profile+Views" alt="profile views"/>
 </p>
 
-<p align="center"><i>⭐️ Always learning, always building. Let's connect!</i></p>
+<p align="center"><i>Always learning, always building. Let's connect!</i></p>
