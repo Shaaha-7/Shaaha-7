@@ -111,12 +111,13 @@
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **Real Estate AI Platform** | Full-stack AI/ML system delivering property insights and predictions end-to-end | Python · FastAPI · scikit-learn · Docker |
-| **Facial Analysis & Segmentation** | Computer-vision pipeline for face detection, analysis, and image segmentation | OpenCV · PyTorch · CNNs · Grad-CAM |
-| **Airbnb Booking Velocity Index** | Data science project modeling booking demand signals into an interpretable index | Pandas · XGBoost · SHAP · Plotly |
+| [**PropAI — Real Estate Platform**](https://github.com/Shaaha-7/propai-real-estate-platform) | Multi-agent AI platform: lead scoring, property retrieval, RAG knowledge base, SHAP explainability | Python · FastAPI · LangChain · FAISS · XGBoost |
+| [**GroceryPOS AI**](https://github.com/Shaaha-7/grocerypos-ai) | Inventory & profit-intelligence platform with bcrypt-backed auth, RBAC, and an admin panel | Python · Streamlit · SQLite |
+| [**Facial Analysis & Segmentation**](https://github.com/Shaaha-7/computer-vision-facial-analysis) | Classical + deep-learning CV pipeline: 12 edge-detection operators, 10 segmentation algorithms, 3 CNNs trained from scratch | OpenCV · PyTorch · Grad-CAM |
+| [**Airbnb Booking Velocity Index**](https://github.com/Shaaha-7/airbnb-booking-velocity-prediction) | 7-stage ML pipeline modeling booking demand into an interpretable index | Pandas · XGBoost · SHAP · FastAPI · MLflow |
+| [**Shaaha**](https://github.com/Shaaha-7/shaaha) | Python meta-dispatcher library — auto-selects the best available backend (numpy/cupy, pandas/polars, etc.) via import hooks | Python · PEP 302 |
+| [**DocuMind AI**](https://github.com/Shaaha-7/genai-hackathon-project) | RAG-based document intelligence: risk detection, entity extraction, grounded Q&A over any PDF | Streamlit · Gemini · Groq |
 | **Feature Engineering & Model Benchmarking** | Internship work: engineered features and benchmarked models for measurable gains | scikit-learn · LightGBM · Pandas |
-
-> See the **pinned repositories** below for the full write-ups.
 
 ---
 
@@ -132,16 +133,7 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaaha-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaaha-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaha-7&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaaha-7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="trophies"/>
 </p>
 
 <p align="center">
