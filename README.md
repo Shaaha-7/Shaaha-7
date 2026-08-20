@@ -21,7 +21,7 @@
 - Comfortable across the whole lifecycle — **data engineering → modeling → evaluation → MLOps → deployment**.
 - Strong focus on **explainable AI** (SHAP, LIME, Grad-CAM) and rigorous, metric-driven evaluation.
 - Reach me at **shaaha1979@gmail.com**
-- Open to roles in **AI Engineering, Machine Learning, Data Science, and Data Engineering**.
+- Open to roles in **AI Engineering, Machine Learning, Data Science, Data Engineering, and Applied AI Researcher**.
 
 ---
 
