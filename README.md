@@ -114,6 +114,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaaha-7&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaaha-7/Shaaha-7/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaaha-7/Shaaha-7/output/github-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Shaaha-7/Shaaha-7/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
 ---
 
 <p align="center">
