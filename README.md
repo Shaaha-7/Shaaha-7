@@ -1,134 +1,79 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=200&section=header&text=Shabeer%20Ahamed%20K&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Applied%20AI%20Researcher%20%E2%80%A2%20Dubai%2C%20UAE&descAlignY=58&descSize=17" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:1B263B&height=120&section=header&text=Shabeer%20Ahamed%20K&fontSize=38&fontColor=E0E1DD&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Applied%20AI%20Researcher%20%C2%B7%20Dubai%2C%20UAE&descAlignY=72&descSize=15" alt="Shabeer Ahamed K"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shaaha-7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&multiline=false&width=760&height=45&lines=I+build+AI+that+works+in+the+real+world+%F0%9F%8C%8D;LLM+agents+%E2%80%A2+RAG+%E2%80%A2+Computer+Vision+%E2%80%A2+Machine+Learning;From+raw+data+%E2%86%92+models+%E2%86%92+deployed+products+%F0%9F%9A%80;Top+20+UAE+%E2%80%94+ATRC+Advanced+Technology+Pioneers+2026+%F0%9F%8F%86;NASA+Space+Apps+2026+%E2%80%A2+Meta+Wearables+Studio+UAE+2026" alt="typing"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Sans+3&weight=500&size=18&duration=3500&pause=1200&color=8D99AE&center=true&vCenter=true&width=720&height=36&lines=Machine+Learning+%C2%B7+LLM+Agents+%C2%B7+Computer+Vision+%C2%B7+Data+Engineering;Building+reliable%2C+explainable+and+rigorously+evaluated+AI+systems" alt="Areas of work"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shabeerahamed7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://scholar.google.com/citations?user=nRhANyEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="mailto:shaaha1979@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://pypi.org/project/shaaha/"><img src="https://img.shields.io/badge/PyPI-shaaha-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Shaaha-7&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/shabeerahamed7"><img src="https://img.shields.io/badge/LinkedIn-shabeerahamed7-1B263B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?user=nRhANyEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-1B263B?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="mailto:shaaha1979@gmail.com"><img src="https://img.shields.io/badge/Email-shaaha1979%40gmail.com-1B263B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://pypi.org/project/shaaha/"><img src="https://img.shields.io/badge/PyPI-shaaha-1B263B?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About me
+### About
 
-- 🎓 **M.Sc. Data Science & Artificial Intelligence** — Middlesex University Dubai
-- 🎓 **B.Tech AI & Data Science** — Dhaanish Ahmed Institute of Technology
-- 🔬 **AI Research Intern** — ML pipelines and predictive models on real operational data
-- 🤖 I build across the whole AI stack: **LLM agents, RAG, computer vision, machine learning, forecasting, data engineering and deployment**
-- ✅ I care about AI that is **reliable, explainable and honestly evaluated**
-- 🎯 Open to **ML / AI engineering roles, research positions and a PhD in AI (2027)**
-- 📍 Dubai, UAE · ⚡ Fun fact: my hackathon team built a Mars walk planner on real NASA data 🪐
+I am an AI/ML engineer with an **M.Sc. in Data Science and Artificial Intelligence** (Middlesex University Dubai) and a **B.Tech in Artificial Intelligence and Data Science**, currently working as an **AI Research Intern** on machine-learning pipelines and predictive models for real operational data.
+
+My work spans **LLM agents and retrieval-augmented generation, machine learning and forecasting, computer vision, and data engineering**, with a consistent focus on systems that are reliable, explainable and evaluated honestly against strong baselines.
+
+I am open to **ML / AI engineering roles, research positions and a PhD in Artificial Intelligence (2027 intake)**.
 
 ---
 
-### 🏆 Highlights
+### Recognition
 
-<table>
-<tr>
-<td align="center" width="33%">🥇<br/><b>Top 20 Teams in the UAE</b><br/><sub>ATRC Advanced Technology Pioneers 2026<br/>Project Qandeel</sub></td>
-<td align="center" width="33%">🚀<br/><b>NASA Space Apps 2026</b><br/><sub>MarsPath — routes a median 61 m<br/>from Perseverance's real tracks</sub></td>
-<td align="center" width="33%">🕶️<br/><b>Meta Wearables Studio UAE</b><br/><sub>Team lead — Ustad, AI repair tutor<br/>on Ray-Ban Meta glasses</sub></td>
-</tr>
-<tr>
-<td align="center">📄<br/><b>Peer-reviewed publication</b><br/><sub>AI health-risk assessment — IJIRSET 2025<br/><a href="https://www.ijirset.com/upload/2025/may/112_AI.pdf">Read the paper</a></sub></td>
-<td align="center">🖼️<br/><b>Research poster</b><br/><sub>Middlesex University Dubai<br/>Postgraduate Poster Competition 2026</sub></td>
-<td align="center">📦<br/><b>Open-source on PyPI</b><br/><sub><code>pip install shaaha</code><br/>runtime backend dispatcher</sub></td>
-</tr>
-</table>
+| | |
+|---|---|
+| **Top 20 Teams in the UAE** | ATRC Advanced Technology Pioneers 2026 — Project Qandeel (ENEC challenge) |
+| **NASA Space Apps Challenge 2026** | MarsPath — planned routes a median of 61 m from Perseverance's actual tracks |
+| **Meta Wearables Studio UAE 2026** | Team lead — Ustad, an AI repair tutor for Ray-Ban Meta glasses |
+| **Peer-reviewed publication** | *AI Powered Health Risk Assessment and Specialist Recommender for Preventive Healthcare* — IJIRSET, 2025 (team project) · [PDF](https://www.ijirset.com/upload/2025/may/112_AI.pdf) |
+| **Research poster** | Middlesex University Dubai Postgraduate Poster Competition, 2026 |
+| **Open-source software** | [`shaaha`](https://github.com/Shaaha-7/shaaha), a Python library published on PyPI |
 
 ---
 
-### 🚀 Featured projects
+### Selected Projects
 
-| | Project | What it does | Highlight |
-|:-:|---|---|---|
-| 🛡️ | [**waypost**](https://github.com/Shaaha-7/waypost) | Monitor & circuit breaker for multi-agent LLM systems — detectors + LLM judge + human-approved fixes | Adversarial tests across 5 failure behaviours |
-| 🚕 | [**taxi-fleet-ai**](https://github.com/Shaaha-7/taxi-fleet-ai) | AI fleet management: graph neural network forecasts + optimisation + reinforcement learning, validated in a traffic simulator | Requests served 79% → 97% (simulation) |
-| 🪐 | [**marspath**](https://github.com/Shaaha-7/marspath) | Mars walk planner on 7 real NASA data layers with an offline, source-grounded AI assistant | 61 m from Perseverance's real tracks |
-| 🪼 | [**project-qandeel**](https://github.com/Shaaha-7/project-qandeel) | Protects power-plant water intakes from jellyfish swarms using real ocean & wind data — without killing them | Top 20 in the UAE (ATRC) |
-| 🕶️ | [**ustad-meta-glasses**](https://github.com/Shaaha-7/ustad-meta-glasses) | AI repair technician on smart glasses: privacy blur, diagnosis, 3D exploded view, voice coach | Meta Wearables Studio UAE |
-| 🗣️ | [**uae-visa-agent**](https://github.com/Shaaha-7/uae-visa-agent) | Multilingual voice AI for UAE visa & labour-law questions, grounded in official portals | Live policy-change watchdog |
-| 🏠 | [**propai-real-estate-platform**](https://github.com/Shaaha-7/propai-real-estate-platform) | Multi-agent real-estate AI: lead scoring, hybrid RAG, SHAP explanations | Retrieval accuracy 74% → 91% |
-| 📑 | [**documind-ai**](https://github.com/Shaaha-7/documind-ai) | Turns any long PDF into a risk report with evidence-quoted answers | Report in under 15 s |
-| 👁️ | [**computer-vision-facial-analysis**](https://github.com/Shaaha-7/computer-vision-facial-analysis) | Classical vision to CNNs from scratch, explained with Grad-CAM | Up to 95.4% accuracy |
-| 🛒 | [**grocerypos-ai**](https://github.com/Shaaha-7/grocerypos-ai) | Retail analytics: forecasting, pricing, P&L dashboards, role-based access | Full-stack Streamlit app |
-| 📦 | [**shaaha**](https://github.com/Shaaha-7/shaaha) | One import, best backend (NumPy/CuPy, pandas/Polars, sklearn/PyTorch) chosen at runtime | Published on PyPI |
-
----
-
-### 🧠 What I work on
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_LLM_Agents_&_RAG-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊_Machine_Learning_&_Forecasting-238636?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision-8250df?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛠️_Data_Engineering_&_MLOps-d29922?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔍_Explainable_&_Trustworthy_AI-da3633?style=for-the-badge"/>
-</p>
+| Project | Description | Result |
+|---|---|---|
+| [**waypost**](https://github.com/Shaaha-7/waypost) | Monitoring and circuit-breaker layer for multi-agent LLM systems, combining rule-based detectors, an LLM judge and human-approved remediation | Adversarial evaluation across five failure behaviours |
+| [**taxi-fleet-ai**](https://github.com/Shaaha-7/taxi-fleet-ai) | Fleet management combining graph neural network demand forecasts, optimisation and reinforcement learning, validated in a traffic simulator | Requests served increased from 79% to 97% (simulation) |
+| [**marspath**](https://github.com/Shaaha-7/marspath) | Route planner for crewed Mars exploration built on seven NASA data layers, with a source-grounded assistant | Median deviation of 61 m from Perseverance's tracks |
+| [**project-qandeel**](https://github.com/Shaaha-7/project-qandeel) | Forecasting jellyfish swarm drift from ocean and wind data to protect power-plant seawater intakes | Top 20 teams in the UAE (ATRC) |
+| [**ustad-meta-glasses**](https://github.com/Shaaha-7/ustad-meta-glasses) | AI repair technician for smart glasses with on-device privacy, diagnosis, 3D exploded views and voice guidance | Meta Wearables Studio UAE |
+| [**uae-visa-agent**](https://github.com/Shaaha-7/uae-visa-agent) | Multilingual voice assistant for UAE visa and labour-law questions, grounded in official sources | Automated monitoring of source changes |
+| [**propai-real-estate-platform**](https://github.com/Shaaha-7/propai-real-estate-platform) | Multi-agent real-estate platform with lead scoring, hybrid retrieval and SHAP explanations | Top-3 retrieval accuracy from 74% to 91% |
+| [**documind-ai**](https://github.com/Shaaha-7/documind-ai) | Document intelligence with risk detection, entity extraction and evidence-quoted answers | Structured report in under 15 seconds |
+| [**computer-vision-facial-analysis**](https://github.com/Shaaha-7/computer-vision-facial-analysis) | Classical image processing through to CNNs trained from scratch, explained with Grad-CAM | Up to 95.4% accuracy |
+| [**grocerypos-ai**](https://github.com/Shaaha-7/grocerypos-ai) | Retail analytics platform with forecasting, pricing, reporting and role-based access | Full-stack analytics application |
+| [**shaaha**](https://github.com/Shaaha-7/shaaha) | Runtime dispatcher selecting the best available backend (NumPy/CuPy, pandas/Polars, scikit-learn/PyTorch) | Published on PyPI |
 
 ---
 
-### 🛠️ Tech stack
+### Areas of Interest
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r,kotlin,js,html,fastapi,docker,githubactions,git,linux,postgres,sqlite,aws,gcp,threejs,nodejs,androidstudio,vscode&perline=10" alt="skills"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SHAP-FF0D57?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-</p>
+Machine learning and forecasting · Large language models, agents and retrieval · Computer vision · Uncertainty quantification · Explainable and trustworthy AI · Data engineering and MLOps
 
 ---
 
-### 📈 GitHub activity
+### Technical Skills
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Shaaha-7&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=FF6F00&currStreakLabel=00C9FF" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaaha-7&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaaha-7/Shaaha-7/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaaha-7/Shaaha-7/output/github-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Shaaha-7/Shaaha-7/output/github-snake-dark.svg"/>
-  </picture>
-</p>
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL, R, Kotlin, JavaScript |
+| **Machine learning** | PyTorch, PyTorch Geometric, scikit-learn, XGBoost, SHAP, Hugging Face Transformers |
+| **LLMs and agents** | LangChain, LangGraph, FAISS, hybrid retrieval, Gemini, Claude API, A2A protocol |
+| **Computer vision and simulation** | OpenCV, MediaPipe, SUMO / TraCI, Three.js |
+| **Engineering and data** | FastAPI, Docker, GitHub Actions, MLflow, Streamlit, PostgreSQL, PySpark, AWS, GCP |
 
 ---
 
 <p align="center">
-  <i>“Build it, test it honestly, ship it.”</i><br/>
-  <b>Open to collaborations, research roles and ML engineering opportunities — let's connect! 🤝</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:243B55,100:141E30&height=110&section=footer" alt="footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaaha-7&bg_color=0D1117&color=8D99AE&line=E0E1DD&point=E0E1DD&area=true&hide_border=true" alt="Contribution activity"/>
 </p>
