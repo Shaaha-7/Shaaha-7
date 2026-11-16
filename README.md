@@ -1,140 +1,109 @@
-<h1 align="center">Hi, I'm Shabeer Ahamed k</h1>
-<h3 align="center">AI / ML Engineer · Data Scientist · Data Engineer</h3>
-
 <p align="center">
-  Building end-to-end AI systems — from data pipelines and model training to
-  RAG applications, explainable ML, and production deployment.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Shabeer%20Ahamed%20K&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Applied%20AI%20Researcher%20%C2%B7%20Dubai%2C%20UAE&descAlignY=58&descSize=16" alt="header"/>
 </p>
 
 <p align="center">
-  <a href="mailto:shaaha1979@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Reliable+LLM+agents+%26+evaluation;Spatio-temporal+GNN+forecasting+with+calibrated+uncertainty;Turning+messy+real-world+data+into+decisions;Top+20+UAE+%E2%80%94+ATRC+Advanced+Technology+Pioneers+2026" alt="typing"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shabeerahamed7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Shaaha-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://scholar.google.com/citations?user=nRhANyEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="mailto:shaaha1979@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://pypi.org/project/shaaha/"><img src="https://img.shields.io/badge/PyPI-shaaha-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
 </p>
 
 ---
 
-### About Me
+### 👋 About me
 
-- M.Sc. candidate at **Middlesex University** · B.Tech from **Dhaanish Ahmed Institute of Technology**
-- I design and ship **full-stack AI/ML systems**: LLM & RAG applications, computer vision, and classical ML.
-- Comfortable across the whole lifecycle — **data engineering → modeling → evaluation → MLOps → deployment**.
-- Strong focus on **explainable AI** (SHAP, LIME, Grad-CAM) and rigorous, metric-driven evaluation.
-- Reach me at **shaaha1979@gmail.com**
-- Open to roles in **AI Engineering, Machine Learning, Data Science, Data Engineering, and Applied AI Researcher**.
+- 🎓 **M.Sc. Data Science & Artificial Intelligence** (Middlesex University Dubai) · **B.Tech AI & Data Science**
+- 🔬 **AI Research Intern** — building and auditing ML pipelines on large-scale operational telemetry
+- 🧠 I work where **ML research meets reliable engineering**: LLM agents that can be monitored and controlled, forecasts that come with honest uncertainty, and evaluations that beat simple baselines for real
+- 🎯 Applying for **PhD in AI (2027)** and **ML / research-engineer roles** in the UAE
 
 ---
 
-### Tech Stack
+### 🏆 Highlights
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"/>
-</p>
-
-**LLM & Generative AI**
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=flat"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20%7C%20LoRA%20%7C%20Fine--tuning-6E56CF?style=flat"/>
-</p>
-
-**ML & Deep Learning**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat"/>
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat"/>
-</p>
-
-**Computer Vision & NLP**
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentence--Transformers-EE4C2C?style=flat"/>
-</p>
-
-**Retrieval & Vector DBs**
-<p>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FDBA12?style=flat"/>
-  <img src="https://img.shields.io/badge/Weaviate-00C4B4?style=flat"/>
-  <img src="https://img.shields.io/badge/BM25%20%7C%20Hybrid%20Search-555555?style=flat"/>
-</p>
-
-**MLOps & Deployment**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
-</p>
-
-**Cloud & Data Engineering**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
-**Data & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-2E7D32?style=flat"/>
-</p>
+| | |
+|---|---|
+| 🥇 **Top 20 teams in the UAE** | ATRC Advanced Technology Pioneers 2026 — Project Qandeel (ENEC challenge) |
+| 🚀 **NASA Space Apps Challenge 2026** | MarsPath — routes a median **61 m** from Perseverance's real tracks (vs 122 m straight-line) |
+| 🕶️ **Meta Wearables Studio UAE 2026** | Team lead — Ustad, an AI repair tutor on Ray-Ban Meta glasses |
+| 📄 **Peer-reviewed publication** | *AI Powered Health Risk Assessment and Specialist Recommender* — IJIRSET 2025 (team project) · [PDF](https://www.ijirset.com/upload/2025/may/112_AI.pdf) |
+| 🖼️ **Research poster** | Middlesex University Dubai Postgraduate Poster Competition 2026 |
+| 📦 **Open source** | [`shaaha`](https://github.com/Shaaha-7/shaaha) — Python library published on PyPI |
 
 ---
 
-### Featured Projects
+### 🔭 Featured work
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| [**PropAI — Real Estate Platform**](https://github.com/Shaaha-7/propai-real-estate-platform) | Multi-agent AI platform: lead scoring, property retrieval, RAG knowledge base, SHAP explainability | Python · FastAPI · LangChain · FAISS · XGBoost |
-| [**GroceryPOS AI**](https://github.com/Shaaha-7/grocerypos-ai) | Inventory & profit-intelligence platform with bcrypt-backed auth, RBAC, and an admin panel | Python · Streamlit · SQLite |
-| [**Facial Analysis & Segmentation**](https://github.com/Shaaha-7/computer-vision-facial-analysis) | Classical + deep-learning CV pipeline: 12 edge-detection operators, 10 segmentation algorithms, 3 CNNs trained from scratch | OpenCV · PyTorch · Grad-CAM |
-| [**Airbnb Booking Velocity Index**](https://github.com/Shaaha-7/airbnb-booking-velocity-prediction) | 7-stage ML pipeline modeling booking demand into an interpretable index | Pandas · XGBoost · SHAP · FastAPI · MLflow |
-| [**Shaaha**](https://github.com/Shaaha-7/shaaha) | Python meta-dispatcher library — auto-selects the best available backend (numpy/cupy, pandas/polars, etc.) via import hooks | Python · PEP 302 |
-| [**DocuMind AI**](https://github.com/Shaaha-7/genai-hackathon-project) | RAG-based document intelligence: risk detection, entity extraction, grounded Q&A over any PDF | Streamlit · Gemini · Groq |
-| **Feature Engineering & Model Benchmarking** | Internship work: engineered features and benchmarked models for measurable gains | scikit-learn · LightGBM · Pandas |
-
----
-
-### Certifications
-
-- **Advanced RAG Applications with Vector Databases** — LinkedIn Learning
-- **Building AI Agents: From Zero to Production** — LinkedIn Learning
-- **Master NotebookLM: Build Your Own AI Research Assistant** — LinkedIn Learning
-- **SQL for Data Analysis** — Microsoft / LinkedIn Learning
+| Project | What it does | Key result | Stack |
+|---|---|---|---|
+| 🚕 [**taxi-fleet-ai**](https://github.com/Shaaha-7/taxi-fleet-ai) | Spatio-temporal GNN demand forecasting + conformal intervals feeding a robust LP / RL rebalancer; stress days, NYC→Dubai transfer, SUMO replay | Served requests **79.4% → 96.9%**, mean wait **7.7 → 3.7 min** (simulation) | PyTorch · PyG · HiGHS · SUMO |
+| 🛡️ [**waypost**](https://github.com/Shaaha-7/waypost) | In-line monitor & circuit breaker for A2A multi-agent LLM systems; rule-based detectors + async LLM judge; human-gated remediation | Adversarial chaos tests across **5 failure behaviours**; 6/6 correctness conditions verified | Python · FastAPI · Docker · pytest |
+| 🪐 [**marspath**](https://github.com/Shaaha-7/marspath) | Terrain-aware Marswalk planner on 7 NASA data layers with an offline, source-grounded science assistant | Median **61 m** from Perseverance tracks | FastAPI · geospatial · RAG |
+| 🪼 [**project-qandeel**](https://github.com/Shaaha-7/project-qandeel) | Forecasts jellyfish swarm drift from real ocean & wind data to protect power-plant intakes — without killing them | **~3%** undefended arrivals vs ~23% camera-only (100-alert stress test) | Copernicus · ERA5 · Streamlit |
+| 🕶️ [**ustad-meta-glasses**](https://github.com/Shaaha-7/ustad-meta-glasses) | AI repair technician on Meta glasses: on-device face blur, Gemini diagnosis, 3D exploded view, multilingual voice coach | Expert → lesson → learner loop with a Skill Passport | Kotlin · Gemini · Three.js |
+| 🗣️ [**uae-visa-agent**](https://github.com/Shaaha-7/uae-visa-agent) | Multilingual voice agent for UAE visa & labour-law questions, grounded in official portals | Policy-drift watchdog + automated tests | Groq · ElevenLabs · Convex |
+| 📦 [**shaaha**](https://github.com/Shaaha-7/shaaha) | One import, best backend (NumPy/CuPy, pandas/Polars, sklearn/PyTorch) chosen at runtime via PEP 302 hooks | Published on **PyPI**, CI on GitHub Actions | Python packaging |
+| 📑 [**documind-ai**](https://github.com/Shaaha-7/documind-ai) | Document intelligence: summaries, risks, entities and grounded Q&A with evidence quotes | Refuses when the answer is not in the document | Gemini · Llama 3.3 · Streamlit |
+| 👁️ [**computer-vision-facial-analysis**](https://github.com/Shaaha-7/computer-vision-facial-analysis) | 12 edge detectors (Canny from scratch), 10 segmentation methods, CNNs trained from scratch | Up to **95.4%** accuracy with Grad-CAM | OpenCV · PyTorch · MediaPipe |
 
 ---
 
-### GitHub Analytics
+### 🧪 Research interests
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaaha-7&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
+`spatio-temporal forecasting under distribution shift` · `uncertainty quantification & conformal prediction` · `reliability & security of LLM agents` · `grounded / verifiable LLM reasoning` · `data-centric ML & honest evaluation`
+
+---
+
+### 🛠️ Tech I actually use
+
+**Languages** &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+
+**ML & deep learning** &nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=flat"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat"/>
+<img src="https://img.shields.io/badge/SHAP-FF0D57?style=flat"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+
+**LLMs & agents** &nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/A2A%20protocol-555555?style=flat"/>
+
+**Vision & simulation** &nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat"/>
+<img src="https://img.shields.io/badge/SUMO%20%2F%20TraCI-2E7D32?style=flat"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
+
+**Engineering & data** &nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+
+---
+
+### 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaaha-7&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph"/>
@@ -144,4 +113,4 @@
   <img src="https://komarev.com/ghpvc/?username=Shaaha-7&style=flat&color=blueviolet&label=Profile+Views" alt="profile views"/>
 </p>
 
-<p align="center"><i>Always learning, always building. Let's connect!</i></p>
+<p align="center"><i>Open to research collaborations, PhD opportunities and ML roles — let's connect.</i></p>
